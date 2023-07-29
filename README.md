@@ -4,11 +4,9 @@ This repository is part of my Continuum Mechanics course project and contains a 
 <img height="150" alt="Screenshot 2023-07-27 at 00 47 04" src="https://github.com/christopheradnel414/Torsion-BEM/assets/41734037/d84d779c-b8bf-44e5-b896-b7411ca5312e">
 <img height="150" alt="Screenshot 2023-07-27 at 00 47 04" src="https://github.com/christopheradnel414/Torsion-BEM/assets/41734037/1c14accc-d105-454b-a74b-2bb82186c121">
 <img height="150" alt="Screenshot 2023-07-27 at 00 47 04" src="https://github.com/christopheradnel414/Torsion-BEM/assets/41734037/480364e0-ecd3-4aad-8aca-5b0158ee2962">
-
+<img height="150" alt="Screenshot 2023-07-27 at 00 47 04" src="https://github.com/christopheradnel414/Torsion-BEM/assets/41734037/6d4337e5-5084-4b2d-a20e-81cffc6c9598">
+<img height="150" alt="Screenshot 2023-07-27 at 00 47 04" src="https://github.com/christopheradnel414/Torsion-BEM/assets/41734037/aed878f5-e40c-41b1-b2a5-1602f66ba616">
 <img height="50" alt="Screenshot 2023-07-27 at 00 47 04" src="https://github.com/christopheradnel414/Torsion-BEM/assets/41734037/e49367cd-062e-4662-b032-fb8e6cc93999">
-
-
-
 
 
 
