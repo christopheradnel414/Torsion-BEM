@@ -21,7 +21,8 @@ The main code for the boundary element solver is the "main_torsion.m" file which
 # Geometry Generation
 The geometry generation scripts are a tool to help simplify geometry creation. The geometry generation folder consists of several functions to generate simple boundaries and a main function which serves as an example on how to use these functions to create the final geometry. Here, as we are dealing with both outer and inner boundaries, our boundary generation functions will take an input on the last parameter to determine whether it is an inner or outer boundary. Example:
 ```
-
+[x,y] = generateRectangle(6,3,0,0,30,15,1); % the last 1 in the input means that the rectangle boundary is outer boundary
+[x,y] = generateCircle(1,0,0,30,0); % the last 0 in the input means that the circle boundary is inner boundary
 ```
 
 # Geometery Example Data
